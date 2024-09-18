@@ -50,3 +50,6 @@ SELECT
     ((MAX(population) - MIN(population))::decimal / MIN(population)) * 100 AS growth_rate
 FROM
     PopulationData; */
+
+--Q4.8
+/* No it does not always produce an accurate responce it needs to be asked to revise and you still need to give insturctions and aid for better outputs*/
